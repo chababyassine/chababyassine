@@ -1,5 +1,8 @@
  <h1 aling="centre">hello I'm Yassine 👋</h1> 
  <h3 aling="centre"> Etudiant en développement WEB & WEB MOBILE</h3>
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966">
+
+
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/yassine chabab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine chabab" height="30" width="40" /></a>
